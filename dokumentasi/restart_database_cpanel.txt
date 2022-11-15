@@ -1,0 +1,6 @@
+// untuk restart database
+1. hapus database yang awal
+2. buat database baru
+3. import database
+4. beri akses user
+5. config di .env laravel
